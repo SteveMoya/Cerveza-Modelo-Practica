@@ -29,8 +29,10 @@ Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz dob
 
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto.
+<br>
 
 ![cerveza-modelo-practica vercel app_ (1)](https://github.com/SteveMoya/Cerveza-Modelo-Practica/assets/114698709/61bd6dd7-6246-4733-a60a-cc330b9178a0)
+
 <br>
 
 
