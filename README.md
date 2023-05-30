@@ -19,11 +19,11 @@ Eh aprendido a realizar slider totalmente responsive, con la utilizacion de los 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-## IDE
+## IDE 💻
 
 ![VisualStudioCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Instalación 
+## Instalación 🏗️
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
 <br>
 
@@ -48,6 +48,4 @@ Soy Pionero en la tendencia de el Marketing 5.0 en Republica Dominicana
   </a>
 </p> 
 <br>
-<hr>
-
 
