@@ -27,6 +27,12 @@ Eh aprendido a realizar slider totalmente responsive, con la utilizacion de los 
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
 <br>
 
+## Vista previa del proyecto
+Si quieres hechas un vistazo al proyecto.
+
+![cerveza-modelo-practica vercel app_ (1)](https://github.com/SteveMoya/Cerveza-Modelo-Practica/assets/114698709/61bd6dd7-6246-4733-a60a-cc330b9178a0)
+<br>
+
 
 ## Steve Moya Cepeda ✒️
 
