@@ -1,4 +1,4 @@
-# Cerveza Modelo Practica
+# 🍺 Cerveza Modelo Practica 🍺
 ![Cerveza-Modelo_](https://github.com/SteveMoya/Cerveza-Modelo-Practica/assets/114698709/5cc36944-5fa7-49b1-b2d7-c8df27693102)
 
 ## Ejemplo en vivo
